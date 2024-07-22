@@ -1,9 +1,9 @@
 ## Insurance Data Analysis and Modeling
-# Overview
+### Overview
 This project involves loading, preprocessing, and analyzing insurance data from Google Sheets into Google BigQuery. The analysis leverages data engineering and data science techniques to generate insights and build predictive models. The project includes the following components:
 
-> Data Ingestion: Data is fetched from Google Sheets and uploaded to BigQuery.
-> Data Processing: Data is read from BigQuery into Spark DataFrames.
+#Data Ingestion: Data is fetched from Google Sheets and uploaded to BigQuery.
+Data Processing: Data is read from BigQuery into Spark DataFrames.
 Data Analysis: SQL queries are used to extract insights from BigQuery.
 Visualization: Data visualizations are created to understand data distribution.
 Machine Learning: A predictive model is built using machine learning techniques.
