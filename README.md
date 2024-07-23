@@ -16,6 +16,7 @@ Project Structure
 Authentication and Setup
 
 Authenticate with Google Cloud services and initialize BigQuery and Spark clients.
+
 Data Loading: Fetch data from Google Sheets and upload it to BigQuery.
 
 Data Reading: Read data from BigQuery into Spark DataFrames.
